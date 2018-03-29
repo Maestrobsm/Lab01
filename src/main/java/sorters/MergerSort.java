@@ -1,10 +1,7 @@
 package sorters;
 
-import analyzer.Service;
-
 import java.util.Arrays;
 
-//@Service
 
 /**
  * Implementation of {@link Sorter} class.
